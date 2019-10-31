@@ -1,0 +1,4 @@
+#Mon Oct 07 11:45:26 CEST 2019
+base.0=/Users/bbecue/Documents/Projects/gpi-techlab-social-app/gpi_socialapp_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
